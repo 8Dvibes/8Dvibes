@@ -1,6 +1,6 @@
 ### Hey, I'm Tyler
 
-Founder of **[AI Build Lab](https://aibuildlab.com)** -- teaching context engineering for agentic systems to 1,150+ students across 15+ countries.
+Founder of **[AI Build Lab](https://aibuildlab.com)** -- teaching context engineering for agentic systems to 1,700+ students across 15+ countries.
 
 I build tools that make AI agents and automation work together. Most of my work lives at the intersection of Claude Code, n8n, and multi-agent systems.
 
