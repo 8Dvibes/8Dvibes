@@ -16,5 +16,5 @@ I build tools that make AI agents and automation work together. Most of my work 
 - [AI Build Lab](https://aibuildlab.com)
 - [X / Twitter](https://x.com/tyfisk)
 - [LinkedIn](https://linkedin.com/in/tyfisk)
-- [Instagram](https://instagram.com/tyfisk)
+- [Instagram](https://instagram.com/tylerfisk.ai)
 - [TikTok](https://tiktok.com/@tyler.fisk)
